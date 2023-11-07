@@ -1,8 +1,10 @@
 
-This project is the Chatbot Development using large language model and advanced retrieval augmentation
+This project is the Chatbot Development using a large language model and advanced retrieval augmentation
 using Langchain as a framework. 
 
-Loading data using lang-chain loaders, splitting the documents into chunks creating an embedding for the chunks, putting them into vector store, and combining the retrieval algorithms with the #LLM. Retrieved documents and user questions passed to the LLM and generated an answer to the original question.
+Loading data using lang-chain loaders, splitting the documents into chunks creating an embedding for the 
+chunks, putting them into vector store, and combining the retrieval algorithms with the LLM. Retrieved 
+documents and user questions passed to the LLM and generated an answer to the original question.
 
 Langchain as a framework, and using GPT-3.5 as a Language Model (LLM), This QnA ChatBot 
 capable of extracting information from any PDF file. I have added a pdf file, asking questions, 
