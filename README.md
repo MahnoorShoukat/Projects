@@ -5,6 +5,7 @@ This repository contains my portfolio projects related to NLP, Deep Learning, Co
 <center><img src="Next Word Prediction/next-word.png"/></center>
 <center><img src="Sentiment Analysis/sentiment-analysis.png"/></center>
 <center><img src="Ensemble Model/ensemble.png"/></center>
-<center><img src="Data Analysis and Visualization/petrolrpices.png"/></center>
-<center><img src="Computer Vision-Forest Fire Prediction/air.png"/></center>
+<center><img src="Data Analysis and Visualization/petrolpices.png"/></center>
+<center><img src="Computer Vision-Forest Fire Prediction/fire.png"/></center>
+<center><img src="Air Quality Prediction/air.png"/></center>
 
