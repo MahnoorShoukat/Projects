@@ -1,0 +1,1 @@
+Next Word Prediction: Next Word Prediction is a project that aims to develop a robust language model capable of predicting the next word in a given text sequence. By utilizing deep learning techniques, specifically recurrent neural networks (RNNs) and Long Short-Term Memory (LSTM) networks, the project aims to learn patterns and relationships within a large corpus of text data.

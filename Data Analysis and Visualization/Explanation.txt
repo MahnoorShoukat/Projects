@@ -1,0 +1,1 @@
+I performed comprehensive EDA to understand important variables and the behaviour of different variables w.r.t others.

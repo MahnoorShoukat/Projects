@@ -1,0 +1,1 @@
+In this project, I have detected the wildfire in the images and result is based on the accuracy that we get in the training and test part of the dataset. The input image has noise so the preprocessing technique is used to eliminate the noise in this system and enhance the image quality
